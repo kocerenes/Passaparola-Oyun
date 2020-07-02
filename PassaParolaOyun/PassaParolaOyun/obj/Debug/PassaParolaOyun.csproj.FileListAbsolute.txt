@@ -1,0 +1,10 @@
+C:\Users\enes\source\repos\PassaParolaOyun\PassaParolaOyun\bin\Debug\PassaParolaOyun.exe.config
+C:\Users\enes\source\repos\PassaParolaOyun\PassaParolaOyun\bin\Debug\PassaParolaOyun.exe
+C:\Users\enes\source\repos\PassaParolaOyun\PassaParolaOyun\bin\Debug\PassaParolaOyun.pdb
+C:\Users\enes\source\repos\PassaParolaOyun\PassaParolaOyun\obj\Debug\PassaParolaOyun.csprojAssemblyReference.cache
+C:\Users\enes\source\repos\PassaParolaOyun\PassaParolaOyun\obj\Debug\PassaParolaOyun.Properties.Resources.resources
+C:\Users\enes\source\repos\PassaParolaOyun\PassaParolaOyun\obj\Debug\PassaParolaOyun.csproj.GenerateResource.cache
+C:\Users\enes\source\repos\PassaParolaOyun\PassaParolaOyun\obj\Debug\PassaParolaOyun.csproj.CoreCompileInputs.cache
+C:\Users\enes\source\repos\PassaParolaOyun\PassaParolaOyun\obj\Debug\PassaParolaOyun.exe
+C:\Users\enes\source\repos\PassaParolaOyun\PassaParolaOyun\obj\Debug\PassaParolaOyun.pdb
+C:\Users\enes\source\repos\PassaParolaOyun\PassaParolaOyun\obj\Debug\PassaParolaOyun.oyunPanel.resources
